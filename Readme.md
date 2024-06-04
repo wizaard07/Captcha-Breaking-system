@@ -1,5 +1,5 @@
 # Captcha Breaker
-Build with Tensorflow (ConvNets) and  Node.js :muscle::muscle::muscle:
+Build with Tensorflow (ConvNets) and  Node.js
 
 
 # Installation
