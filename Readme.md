@@ -43,10 +43,8 @@ Run `src/train.py` to train the model with your own dataset.
 $ python src/train.py
 ```
 
-Take :coffee: or :tea: while waiting!
-
 ## 3. Attack
-Now, enjoy your war :fire::fire::fire: :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+Now, enjoy your war 
 
 #### Python
 ```
